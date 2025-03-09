@@ -5,6 +5,17 @@ The **Multilingual Multimodal Medical Exam Dataset** (MMMED) is a comprehensive 
 
 The dataset includes challenging, real-world medical content, with images from various diagnostic scenarios, making it ideal for assessing VLMs in cross-lingual medical tasks.
 
+### 🔓 **How to Access the Dataset**
+You can access the **MMMED** dataset via [Hugging Face](https://huggingface.co/datasets/praiselab-picuslab/MMMED). Follow these steps to download it:
+
+#### Login using e.g. `huggingface-cli login` to access this dataset
+```
+from datasets import load_dataset
+
+# Login using e.g. `huggingface-cli login` to access this dataset
+ds = load_dataset("praiselab-picuslab/MMMED")
+```
+
 ### 🌟 **Key Features**:
 - **Languages**: 🇪🇸 Spanish, 🇬🇧 English, 🇮🇹 Italian
 - **Medical Content**: Questions based on real Spanish residency exams
@@ -68,18 +79,6 @@ This table shows the parameter sizes, language models, vision models, and averag
 The following figure presents the accuracy of different VLMs in each language tested:
 
 ![image](https://github.com/user-attachments/assets/6d7b4553-049e-47c0-b0fb-012e78955b91)
-
-### 🔓 **How to Access the Dataset**
-You can access the **MMMED** dataset via [Hugging Face](https://huggingface.co/datasets/praiselab-picuslab/MMMED). Follow these steps to download it:
-
-#### Login using e.g. `huggingface-cli login` to access this dataset
-```
-from datasets import load_dataset
-
-# Login using e.g. `huggingface-cli login` to access this dataset
-ds = load_dataset("praiselab-picuslab/MMMED")
-```
-
 
 ### 🌐 **Notes**
 **Dataset Usage**: The dataset is intended for academic and research purposes only. It is not recommended for clinical decision-making or commercial use.
