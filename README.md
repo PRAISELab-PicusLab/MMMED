@@ -1,5 +1,12 @@
 # 🏥 *M*ultilingual *M*ultimodal *M*edical *E*xam *D*ataset for Visual Question Answering in Healthcare
-[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+<div align="center">
+    <a href="https://huggingface.co/datasets/praiselab-picuslab/MMMED" target="_blank"><img alt="MMMED"
+        src="https://img.shields.io/badge/HuggingFace-MMMED-grey?style=for-the-badge&logo=huggingface&logoSize=auto&color=gold"/></a>
+    <a href="LICENSE" target="_blank"><img alt="License"
+        src="https://img.shields.io/badge/license-cc_by_nc_4.0-gray?style=for-the-badge&logo=creativecommons&logoColor=white&logoSize=auto&color=green"/></a>
+</div>
+<hr>
 
 The **Multilingual Multimodal Medical Exam Dataset** (MMMED) is a comprehensive benchmark designed to evaluate Vision-Language Models (VLMs) on _medical multiple-choice question answering (MCQA) tasks_. This dataset combines medical images and multiple-choice questions in **Spanish**, **English**, and **Italian**, derived from the **Médico Interno Residente (MIR)** residency exams in Spain.
 
