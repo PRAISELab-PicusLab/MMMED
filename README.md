@@ -15,6 +15,8 @@ The dataset includes challenging, real-world medical content, with images from v
 ### 🔓 **How to Access the Dataset**
 You can access the **MMMED** dataset via [Hugging Face](https://huggingface.co/datasets/praiselab-picuslab/MMMED). Follow these steps to download it:
 
+**_⚠️ Disclaimer: This dataset contains medical images that may be sensitive for some users. Viewer discretion is advised, especially if the content may evoke strong emotional reactions or be distressing._**
+
 #### Login using e.g. `huggingface-cli login` to access this dataset
 ```
 from datasets import load_dataset
