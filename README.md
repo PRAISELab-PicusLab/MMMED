@@ -89,6 +89,22 @@ The following figure presents the accuracy of different VLMs in each language te
 
 ![image](https://github.com/user-attachments/assets/6d7b4553-049e-47c0-b0fb-012e78955b91)
 
+### 🖋️ **Citation**
+
+Please cite this work as follows:
+
+```bibtex
+@inproceedings{riccio2025multilingual,
+  title={A Multilingual Multimodal Medical Examination Dataset for Visual Question Answering in Healthcare},
+  author={Riccio, Giuseppe and Romano, Antonio and Barone, Mariano and Orlando, Gian Marco and Russo, Diego and
+          Postiglione, Marco and La Gatta, Valerio and Moscato, Vincenzo},
+  booktitle={2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)},
+  pages={435--440},
+  year={2025},
+  organization={IEEE Computer Society}
+}
+```
+
 ### 🌐 **Notes**
 **Dataset Usage**: The dataset is intended for academic and research purposes only. It is not recommended for clinical decision-making or commercial use.
 
