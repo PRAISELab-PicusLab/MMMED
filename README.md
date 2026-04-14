@@ -1,6 +1,8 @@
 # 🏥 *M*ultilingual *M*ultimodal *M*edical *E*xam *D*ataset for Visual Question Answering in Healthcare
 
 <div align="center">
+    <a href="https://github.com/PRAISELab-PicusLab/ExtendedMMMED" target="_blank"><img alt="GitHub Repository"
+        src="https://img.shields.io/badge/GitHub-Extended_MMMED-181717?style=for-the-badge&logo=github&logoSize=auto"/></a>
     <a href="https://huggingface.co/datasets/praiselab-picuslab/MMMED" target="_blank"><img alt="MMMED"
         src="https://img.shields.io/badge/HuggingFace-MMMED-grey?style=for-the-badge&logo=huggingface&logoSize=auto&color=gold"/></a>
     <a href="LICENSE" target="_blank"><img alt="License"
